@@ -6,3 +6,4 @@ Pygments==2.5.2
 requests==2.22.0
 colorama==0.4.3
 appdirs==1.4.3
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
